@@ -1,0 +1,3 @@
+﻿  WindowsAPI.cpp
+C:\Users\User\source\repos\WindowsAPI\WindowsAPI\WindowsAPI.cpp(41,30): warning C4267: 'argumento': conversão de 'size_t' para 'DWORD', possível perda de dados
+  WindowsAPI.vcxproj -> C:\Users\User\source\repos\WindowsAPI\x64\Debug\WindowsAPI.exe
